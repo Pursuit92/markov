@@ -1,0 +1,20 @@
+{
+  "nodes": {
+    "start": {
+      "text": "a",
+      "links": {
+        "next": 0.50,
+        "stop": 0.50
+      }
+    },
+    "next": {
+      "text": "b",
+      "links": {
+        "start": 1.00
+      }
+    }
+  },
+  "start": "start",
+  "end":"stop"
+}
+

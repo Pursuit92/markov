@@ -1,0 +1,8 @@
+[package]
+name = "markov"
+version = "0.1.0"
+authors = ["Josh Chase <jcjoshuachase@gmail.com>"]
+
+[dependencies]
+rustc-serialize = "*"
+rand = "0.3"
